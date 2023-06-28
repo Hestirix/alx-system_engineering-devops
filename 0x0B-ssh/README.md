@@ -5,7 +5,6 @@ provided a personal server by Holberton School. I learned how to use `scp`
 and Fabric to transfer files to my server. Additionally, I completed a basic
 configuration of the server using Nginx.
 
-The server is accessible at [topgedeonobae.tech/](http://2012-web-01.topgedeonobae.tech/).
 
 ## Tasks :page_with_curl:
 
